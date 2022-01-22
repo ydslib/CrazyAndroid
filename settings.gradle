@@ -1,0 +1,3 @@
+rootProject.name = "CrazyAndroid"
+include ':app'
+include ':main'
